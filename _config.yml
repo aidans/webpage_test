@@ -1,4 +1,4 @@
 theme: jekyll-theme-minimal
-domain: aidans.github.io
-url: https://aidans.github.io
-baseurl: /webpage_test
+domain: "aidans.github.io"
+url: "https://aidans.github.io"
+baseurl: "/webpage_test"
